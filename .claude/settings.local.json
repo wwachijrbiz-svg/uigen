@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(claude mcp add playwright npx @playwright/mcp@latest)",
+      "Skill(update-config)",
+      "Skill(update-config:*)",
+      "Bash(ls \"C:\\\\Users\\\\WC Demo 02\\\\.claude\\\\\")",
+      "Read(//c/Users/WC Demo 02/**)",
+      "PowerShell(npx @playwright/mcp@latest)",
+      "PowerShell(winget install --id GitHub.cli)"
+    ]
+  }
+}
